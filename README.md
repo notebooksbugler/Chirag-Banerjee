@@ -93,7 +93,7 @@ Chirag-Banerjee/
 
 [![GitHub](https://img.shields.io/badge/GitHub-notebooksbugler-181717?style=for-the-badge&logo=github)](https://github.com/notebooksbugler)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](chirag-banerjee-05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](hirag-banerjee-056683354)
 
 
 ---
