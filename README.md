@@ -59,11 +59,11 @@ Welcome! This repository is my **learning journal**. It documents my coding jour
 
 - [x] Create GitHub account
 - [x] Create first repository
-- [ ] Learn programming basics
+- [x] Learn programming basics
 - [ ] Build first mini project
 - [ ] Practice problem solving daily
 - [ ] Build a portfolio project
-- [ ] Contribute to open source
+- [ ] Contribute to open sourcex
 
 ---
 
